@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/user-attachments/assets/c4b8b693-201a-4284-96c2-b586022edc77/logo.png" alt="Mysterious Locked Door Logo" width="200"/>
-
 # &nbsp; We Forge Within the Gloom &nbsp;
 
 <br>
